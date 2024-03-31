@@ -3,7 +3,7 @@
     <remote name="github" fetch="https://github.com/frankie9527" />
     <default revision="main" remote="github" />
     <project path="Maven/MavenTest" name="MavenTest" revision="main"/>
-    <project path="App/ArchitecturePractice" name="ArchitecturePractice" revision="main"/>
-    <project path="Utils/EasyAndroid" name="EasyAndroid" revision="main"/>
+    <project path="App/ArchitecturePractice" name="ArchitecturePractice" revision="mvvm"/>
+    <project path="Utils/EasyAndroid" name="EasyAndroid" revision="master"/>
 </manifest>
 
