@@ -4,6 +4,6 @@
     <default revision="main" remote="github" />
     <project path="Maven/MavenTest" name="MavenTest" revision="main"/>
 <!--    <project path="App/ArchitecturePractice" name="ArchitecturePractice" revision="mvvm"/>-->
-<!--    <project path="Utils/EasyAndroid" name="EasyAndroid" revision="master"/>-->
+    <project path="Utils/EasyAndroid" name="EasyAndroid" revision="master"/>
 </manifest>
 
