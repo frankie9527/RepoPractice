@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-    <remote name="MavenTest" fetch="https://github.com/frankie9527/MavenTest" />
-    <default remote="origin" revision="main" sync-j="4" />
-
-
+    <remote name="RepoPractice" fetch="https://github.com/frankie9527/RepoPractice" />
+    <default revision="main" remote="RepoPractice" />
+    <project path="Demo1" name="package/Demo1" revision="main"/>
+    <project path="Demo2" name="package/Demo2" revision="main"/>
 </manifest>
 
